@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@grpc/grpc-js": "^1.1.7",
+    "@grpc/proto-loader": "^0.5.5",
     "fastify": "^3.2.1",
     "fastify-gql": "^5.3.4",
     "save": "^2.4.0"
