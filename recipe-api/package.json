@@ -1,0 +1,16 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.2.1",
+    "fastify-gql": "^5.3.4",
+    "save": "^2.4.0"
+  }
+}
