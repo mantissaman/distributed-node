@@ -13,6 +13,7 @@
     "@grpc/proto-loader": "^0.5.5",
     "fastify": "^3.2.1",
     "middie": "^5.1.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "statsd-client": "^0.4.4"
   }
 }
