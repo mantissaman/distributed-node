@@ -14,6 +14,7 @@
     "fastify": "^3.2.1",
     "middie": "^5.1.0",
     "node-fetch": "^2.6.1",
-    "statsd-client": "^0.4.4"
+    "statsd-client": "^0.4.4",
+    "zipkin-lite": "^0.1.1"
   }
 }

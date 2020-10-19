@@ -13,6 +13,7 @@
     "@grpc/proto-loader": "^0.5.5",
     "fastify": "^3.2.1",
     "fastify-gql": "^5.3.4",
-    "save": "^2.4.0"
+    "save": "^2.4.0",
+    "zipkin-lite": "^0.1.1"
   }
 }
